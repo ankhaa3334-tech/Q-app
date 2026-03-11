@@ -1,6 +1,8 @@
 {
   "/api/article/[articleId]/quizzes/route": "app/api/article/[articleId]/quizzes/route.js",
+  "/api/article/[articleId]/route": "app/api/article/[articleId]/route.js",
   "/api/articles/route": "app/api/articles/route.js",
+  "/api/generate/quizzes/route": "app/api/generate/quizzes/route.js",
   "/api/generate/route": "app/api/generate/route.js",
   "/page": "app/page.js"
 }
