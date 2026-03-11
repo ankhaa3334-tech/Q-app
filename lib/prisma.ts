@@ -1,21 +1,37 @@
 import { PrismaPg } from "@prisma/adapter-pg";
 import { PrismaClient } from "@prisma/client";
-import pg from "pg";
-
-const { Pool } = pg;
-const connectionString = process.env.DATABASE_URL;
-const pool = new Pool({ connectionString });
-const adapter = new PrismaPg(pool);
 
 const globalForPrisma = global as unknown as {
-  prisma: PrismaClient | undefined;
+  prisma: PrismaClient;
 };
 
-// Use 'export const' for a named export
-export const prisma =
+const adapter = new PrismaPg({
+  connectionString: process.env.DATABASE_URL,
+});
+
+const prisma =
   globalForPrisma.prisma ||
   new PrismaClient({
     adapter,
   });
 
 if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
+
+export default prisma;
+// import { PrismaClient } from "@prisma/client";
+
+// const globalForPrisma = globalThis as unknown as {
+//   prisma: PrismaClient | undefined;
+// };
+
+// export const prisma =
+//   globalForPrisma.prisma ??
+//   new PrismaClient({
+//     log: ["error", "warn"],
+//   });
+
+// if (process.env.NODE_ENV !== "production") {
+//   globalForPrisma.prisma = prisma;
+// }
+
+// export default prisma;
