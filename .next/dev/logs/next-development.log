@@ -1,0 +1,12 @@
+[00:00:01.681] Server  LOG     ✓ Ready in 1444ms
+[00:00:07.464] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.322] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:09.322] Browser WARN    Clerk: The prop "afterSignInUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:00:11.753] Server  ERROR   Conflict: Email already exists under a different clerkId.
+[00:00:12.322] Browser ERROR   Sync failed: 409 - Email already in use
+[00:05:09.514] Server  WARN    ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:05:11.713] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:12.358] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:05:12.358] Browser WARN    Clerk: The prop "afterSignInUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
+[00:05:16.149] Server  ERROR   Conflict: Email already exists under a different clerkId.
+[00:05:16.324] Browser ERROR   Sync failed: 409 - Email already in use

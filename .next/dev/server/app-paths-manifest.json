@@ -1,0 +1,5 @@
+{
+  "/api/my-articles/route": "app/api/my-articles/route.js",
+  "/api/users/sync/route": "app/api/users/sync/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
