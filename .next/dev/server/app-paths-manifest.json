@@ -1,5 +1,6 @@
 {
-  "/api/my-articles/route": "app/api/my-articles/route.js",
-  "/api/users/sync/route": "app/api/users/sync/route.js",
-  "/dashboard/page": "app/dashboard/page.js"
+  "/api/article/[articleId]/quizzes/route": "app/api/article/[articleId]/quizzes/route.js",
+  "/api/articles/route": "app/api/articles/route.js",
+  "/api/generate/route": "app/api/generate/route.js",
+  "/page": "app/page.js"
 }

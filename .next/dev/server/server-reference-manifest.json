@@ -1,127 +1,106 @@
 {
   "node": {
-    "004e0f3e186cc95a65107db3e9562e8d202e188f4a": {
+    "00a3d50e4afd92d3f598ce89a0146f7a6d35a453f6": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/dashboard/page": "rsc"
+        "app/page": "rsc"
       },
       "filename": "node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js",
       "exportedName": "collectKeylessMetadata"
     },
-    "40d973273de3eea1a759270be3bb7a7b3607a8da8a": {
+    "4091c7fd7c06fa941423c1aaf909384f8f26bfe73b": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/dashboard/page": "rsc"
+        "app/page": "rsc"
       },
       "filename": "node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js",
       "exportedName": "formatMetadataHeaders"
     },
-    "005121808f0e344ed008c584080d449bf2ba19ae60": {
+    "000e69f2c9d41a8d7a49bd9428788911946b8876ae": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/dashboard/page": "rsc"
+        "app/page": "action-browser"
       },
       "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
       "exportedName": "createOrReadKeylessAction"
     },
-    "006e94305896154328274fcbeb94334899b9a70e15": {
+    "0046b35755b72b0fe31b8f8aed718d4ed20f942ab0": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/dashboard/page": "rsc"
-      },
-      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
-      "exportedName": "detectKeylessEnvDriftAction"
-    },
-    "00f65b614e8e220c479ab01d89a3319b544cfafb23": {
-      "workers": {
-        "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/page": "rsc",
-        "app/dashboard/page": "rsc"
+        "app/page": "action-browser"
       },
       "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
       "exportedName": "deleteKeylessAction"
     },
-    "40eb8c553265be34cb0c05b976cf402153ff47f224": {
+    "00cb7d3f1e62e98708fd7156921e8ea54b857256b2": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%22004e0f3e186cc95a65107db3e9562e8d202e188f4a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%2240d973273de3eea1a759270be3bb7a7b3607a8da8a%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%22005121808f0e344ed008c584080d449bf2ba19ae60%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%22006e94305896154328274fcbeb94334899b9a70e15%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2200f65b614e8e220c479ab01d89a3319b544cfafb23%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%2C%7B%22id%22%3A%2240eb8c553265be34cb0c05b976cf402153ff47f224%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
-          "async": false
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/dashboard/page": "rsc"
+        "app/page": "action-browser"
+      },
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "detectKeylessEnvDriftAction"
+    },
+    "40712861d5c1821c5f5f7b79b810cc5c481e6dd9f3": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
       },
       "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
       "exportedName": "syncKeylessConfigAction"
     },
-    "00dfc20b6be93d8d8943742d3d20db19bc2444f177": {
+    "0001657f4f433feb818ecaedef65eb6c2fec951136": {
       "workers": {
         "app/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%7B%22id%22%3A%2200dfc20b6be93d8d8943742d3d20db19bc2444f177%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%7D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        },
-        "app/dashboard/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F25LP2228%2FDesktop%2FQ%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%7B%22id%22%3A%2200dfc20b6be93d8d8943742d3d20db19bc2444f177%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%2C%22filename%22%3A%22node_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%7D%5D%5D%5D&__client_imported__=true!",
-          "async": false
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
         }
       },
       "layer": {
-        "app/page": "action-browser",
-        "app/dashboard/page": "action-browser"
+        "app/page": "action-browser"
       },
       "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js",
       "exportedName": "invalidateCacheAction"
